@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saeed QJ</h1>
 <h3 align="center">Passionate Full Stack Developer & Perpetual Learner on a Journey of Endless Curiosity</h3>
 
-<img align ="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
+<img align ="right" alt="Coding" width="400" src="https://github.com/SaeedWork/SaeedWork/blob/6ac3429b1191d9c34d6fcf62adae1b44fefcb852/R.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedwork&label=Profile%20views&color=0e75b6&style=flat" alt="saeedwork" /> </p>
 
